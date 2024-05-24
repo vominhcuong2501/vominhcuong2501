@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=2000&color=000000&background=FFD977&vCenter=true&random=false&width=500&lines=Hi+there%2C+%F0%9F%91%8B)](https://git.io/typing-svg)
-## I'm Nguyen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> I'm Cuong <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <p align="center">
 <img alt="loficity" width="600px" src="/assets/banner-gif.gif">
 </p>
-<!-- <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"  -->
-
 
 ![](https://i.imgur.com/waxVImv.png)
 <a target="_blank" align="center">
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on ... Building NextJS Website Projects
 - 🌱 I’m currently learning ... Typescript, NodeJS
-- 📫 How to reach me: ... Just by email or message on social media 
+- 📫 How to reach me: ... Just by email or message on social media
 - ⚡ Fun fact: I like playing badminton, trekking, and coding.
 
 ![](https://i.imgur.com/waxVImv.png)
