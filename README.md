@@ -3,7 +3,7 @@
 <p align="center">
 <img alt="loficity" width="600px" src="/assets/banner-gif.gif">
 </p>
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" 
+<!-- <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"  -->
 
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -20,11 +20,11 @@
 
 ### `<Skills />`
 
-<img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6"> &nbsp;<img src="/assets/tailwind-css.svg" width="60" title="TailwindCSS">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;<img src="/assets/next-js.svg" width="60" title="Next JS">&nbsp;<img src="/assets/typescript.svg" width="60" title="Typescript JS">&nbsp;<img src="/assets/redux.svg" width="60" title="Redux">&nbsp;
+<img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6"> &nbsp;<img src="/assets/tailwind-css.svg" width="60" title="TailwindCSS">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;<img src="/assets/next-js.svg" width="60" title="Next JS">&nbsp;<img src="/assets/icon-reactjs.webp" width="60" title="React JS">&nbsp;<img src="/assets/typescript.svg" width="60" title="Typescript JS">&nbsp;<img src="/assets/redux.svg" width="60" title="Redux">&nbsp;<img src="/assets/icon-tanstack-query.png" width="60" title="Tanstack Query">&nbsp;
 
 ### Tools:
 
-<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/sublime-text.svg" width="60" title="Sublime Text"> <img src="/assets/vitejs.svg" width="60" title="ViteJS">
+<img src="/assets/gitlogo.png" width="60" title="Git"> &nbsp; <img src="/assets/github.svg" width="60" title="Github"> &nbsp; <img src="/assets/vscodelogo.svg" width="60" title="VS Code"> &nbsp; <img src="/assets/vitejs.svg" width="60" title="ViteJS">
 
 ![](https://i.imgur.com/waxVImv.png)
 
